@@ -1,0 +1,30 @@
+{
+  "lenght": 3,
+
+  "posts": [
+    {
+      "heading": "A changing world order",
+      "description": "A world is changing at a fevish pace. Friends, collagues and everyone engaged in knowledge work are beginning to sense this, including the perple who are instrested in this world!",
+      "author": "Bette J Monte",
+      "data": "August 2",
+      "duration": "2 min",
+      "views": 120
+    },
+    {
+      "heading": "Indian v/s Australia",
+      "description": "Think about it - this cricket series was akin to tharapy.\n\n Laying out childhood trauma up top, working with it slowing and surely over two months",
+      "author": "Bette J Monte",
+      "data": "August 2",
+      "duration": "3 min",
+      "views": 123
+    },
+    {
+      "heading": "Write to build",
+      "description": "Writing is the first step to create:\n\n- stories\n-products\n- companies",
+      "author": "Bette J Monte",
+      "data": "August 2",
+      "duration": "1 min",
+      "views": 233
+    }
+  ]
+}
